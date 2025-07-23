@@ -28,7 +28,7 @@ Tech Stack
 Clone the repository:
 
 
-git clone https://github.com/your-username/hotel-booking-api.git
+git clone https://github.com/NikaL25/fastapi-hotel-booking.git
 cd hotel-booking-api
 Create and activate a virtual environment:
 
